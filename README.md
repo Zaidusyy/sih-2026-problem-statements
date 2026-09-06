@@ -1,5 +1,7 @@
 # SIH 2026 Problem Statements — with daily submission history
 
+[![SIH 2026 — live status](https://zaidsayyed.in/api/badge/sih)](https://zaidsayyed.in/tools/sih-problem-statements)
+
 All **233** Smart India Hackathon 2026 problem statements as JSON and CSV, plus
 the thing no other copy has: **a daily record of how many ideas each statement
 has attracted.**
@@ -114,6 +116,16 @@ pivot = hist.pivot(index="psNumber", columns="date", values="submitted").fillna(
   one reads 30 September. I have not established whether the portal changed or
   the earlier parse read the wrong column, so treat the earlier deadline value
   as unverified. Every other field in that snapshot matches.
+
+## Put the live badge in your team README
+
+Ideas submitted and days to the deadline, updated twice a day:
+
+[![SIH 2026 — live status](https://zaidsayyed.in/api/badge/sih)](https://zaidsayyed.in/tools/sih-problem-statements)
+
+```markdown
+[![SIH 2026 — live status](https://zaidsayyed.in/api/badge/sih)](https://zaidsayyed.in/tools/sih-problem-statements)
+```
 
 ## Browsing it instead
 
