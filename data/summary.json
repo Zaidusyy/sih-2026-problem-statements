@@ -1,13 +1,13 @@
 {
   "updated": "2026-09-07",
-  "statements": 233,
-  "software": 176,
-  "hardware": 57,
+  "statements": 236,
+  "software": 178,
+  "hardware": 58,
   "themes": 17,
   "organisations": 33,
-  "ideasSubmitted": 236,
-  "statementsWithIdeas": 112,
-  "statementsWithNone": 121,
+  "ideasSubmitted": 311,
+  "statementsWithIdeas": 130,
+  "statementsWithNone": 106,
   "snapshots": 3,
   "firstSnapshot": "2026-08-28"
 }
