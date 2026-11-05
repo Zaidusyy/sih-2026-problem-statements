@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "statements": 265,
   "software": 196,
   "hardware": 69,
@@ -8,6 +8,6 @@
   "ideasSubmitted": 88153,
   "statementsWithIdeas": 265,
   "statementsWithNone": 0,
-  "snapshots": 42,
+  "snapshots": 43,
   "firstSnapshot": "2026-08-28"
 }
